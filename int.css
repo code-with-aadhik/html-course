@@ -1,0 +1,35 @@
+.Title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:underline;
+    font-style: italic;
+    font-size:60px;
+    text-align: center;
+     position: sticky;
+    top: 0;
+    padding: 10px 16px;
+    
+
+    
+}
+.content{
+    font-size: 33px;
+    column-count:3;
+    column-width: 2px;
+    column-rule: 1px solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.c1{
+    width: 400px;
+}
+
+.c2{
+    width: 400px;
+}
+.below{
+    font-style: italic;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+

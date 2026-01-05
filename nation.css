@@ -1,0 +1,21 @@
+.title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:underline;
+    font-style: italic;
+    font-size:60px;
+    text-align: center;
+     position: sticky;
+    top: 0;
+    padding: 10px 16p
+}
+
+.content{
+    font-size: 37px;
+    column-count:3;
+    column-width: 2px;
+    column-rule: 1px solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.e1{
+    width: 400px;
+}
